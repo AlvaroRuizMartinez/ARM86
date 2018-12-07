@@ -2,6 +2,8 @@ function InvitroFtsZModels
 
 clear all
 
+% KronD subroutine can be downloaded from: https://www.mathworks.com/matlabcentral/fileexchange/26485-kronecker-delta
+
 % Ruiz-Martinez et al., 2016 (Parameters)
 
 k1=0.38;
